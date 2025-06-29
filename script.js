@@ -15,7 +15,7 @@ noBtn.onclick = () => {
   snapBtn.classList.remove('show');
 };
 
-// Snap button link (replace '#' with your real Snap)
+// Snap button link
 snapBtn.onclick = () => {
-  window.open("https://www.snapchat.com/add/yousralabdouni, "yousralabdouni");
+  window.open("https://www.snapchat.com/add/yousralabdouni", "_blank");
 };
