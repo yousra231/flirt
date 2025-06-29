@@ -17,5 +17,5 @@ noBtn.onclick = () => {
 
 // Snap button link (replace '#' with your real Snap)
 snapBtn.onclick = () => {
-  window.open("https://www.snapchat.com/add/YOURUSERNAME", "_blank");
+  window.open("https://www.snapchat.com/add/yousralabdouni, "_blank");
 };
